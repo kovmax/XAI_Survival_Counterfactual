@@ -4,7 +4,7 @@ This repository contains the code and data that were used for the computaion of 
 
 ## Requirements
 
-To run content from `experiments.ipynb` you need Python 3.6.5 or later. The list of required Python packages is in `requirements.txt`.
+To run content from `experiments.ipynb` you need Python 3.7.4 or later. The list of required Python packages is in `requirements.txt`.
 
 ## Installation
 
