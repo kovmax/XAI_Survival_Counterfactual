@@ -14,4 +14,4 @@ git clone https://github.com/kovmax/XAI_Survival_Counterfactual.git
 
 ## References
 
-Kovalev et al., *Counterfactual explanation of machine learning survival models*.
+M.S. Kovalev and L.V. Utkin. *Counterfactual explanation of machine learning survival models*.
